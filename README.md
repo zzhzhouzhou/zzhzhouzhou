@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @zzhzhouzhou nice to meet to you!
-- 👀 I’m studying C++ 
+- 👋 Hello, this is zzh！
+- ⛵️ You can call me zhouzhou or starship.
+- 📖 I'm learning C++.
+- 💻 I usually use Windows and Ubuntu.
+- 🦈 Awww~ I love the cute style sharks！
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zzhzhouzhou" /> </div>
 
 <!---
