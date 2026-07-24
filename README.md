@@ -1,7 +1,7 @@
 - 👋 Hello, this is zzh！
 - ⛵️ You can call me zhouzhou or starship.
 - 📖 I'm learning C++.
-- 💻 I usually use Windows and Ubuntu.
+- 💻 I usually use Windows and ArchLinux.
 - 🦈 Awww~ I love the cute style sharks！
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zzhzhouzhou" /> </div>
 
