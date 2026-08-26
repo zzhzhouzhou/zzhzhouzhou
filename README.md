@@ -33,9 +33,9 @@
 
 ## 精选项目
 
-| 项目 | 描述 | 技术栈 |
-| :--- | :--- | :--- |
-| [**zzh-music-player**](https://github.com/zzhzhouzhou/zzh-music-player) | 简洁、轻量、纯粹的音频播放器——支持波形进度条、智能印象色、记忆播放[reference:4] | Rust, Tauri |
+| 项目 | 描述 |
+| :--- | :--- |
+| [**zzh-music-player**](https://github.com/zzhzhouzhou/zzh-music-player) | 简洁、轻量、纯粹的音频播放器——支持波形进度条、智能印象色、记忆播放 |
 
 > 💡 更多项目请浏览我的 [Repositories](https://github.com/zzhzhouzhou?tab=repositories)
 
